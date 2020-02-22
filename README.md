@@ -12,5 +12,5 @@
 
 ## Week 4
 
-<a href="https://savepice.ru/view/2020/2/23/a67337d106ad1245fa201e9928fe2903-full.png.html" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/23/a67337d106ad1245fa201e9928fe2903-prev.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/23/a67337d106ad1245fa201e9928fe2903-full.png" border="0"/></a>
 

@@ -13,6 +13,9 @@
 ## Week 3
 
 <a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/27/9311476d3c99b72124f003f47576d119-full.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/27/405b6d27fdd95e6a8e939fe3e034538b-full.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/27/a088b00ccf1e371dd50c36f79d822796-full.jpg" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/27/8d1eca845bdf8f4f2df744bdc9e53f9e-full.jpg" border="0"/></a>
 
 ## Week 4
 

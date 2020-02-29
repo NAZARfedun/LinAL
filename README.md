@@ -26,6 +26,4 @@
 
 ## Week 5
 
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/29/cf32af710724b679bb5448df397aa461-full.png" border="0"/></a>
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/2/29/dede06f844e58f6ee4d3ac3630acf29a-full.png" border="0"/></a>
 

@@ -28,5 +28,6 @@
 
 <a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/1/e93bfe0077499f5ab66cd31997713e4b-full.png" border="0"/></a>
 <a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/1/5560581f7a67b38f2fb82c3406e3d84e-full.png" border="0"/></a>
+<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/1/61f3e96c31de216b7d1a9f2b230c668e-full.jpg" border="0"/></a>
 
 

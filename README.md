@@ -34,9 +34,9 @@
 
 ## Week 6
 
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/4/6986809f855282ac12768f8b28507f2f-full.png" border="0"/></a>
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/4/4bb6dbed42c9de8f9b13ffb14c8c2823-full.jpg" border="0"/></a>
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/4/4bb0c0fe84c205a56cead463368c025f-full.jpg" border="0"/></a>
-<a href="https://savepice.ru" target="_blank" title="хостинг картинок"><img src="https://cdn1.savepice.ru/uploads/2020/3/4/d14ef9c075c524e57832c5d928da4567-full.jpg" border="0"/></a>
+<a href="https://ibb.co/KGG6rQJ"><img src="https://i.ibb.co/8BBM7RH/tasks.png" alt="tasks" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZVQQ9Z8/1.jpg" alt="1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3hJWV9j/2.jpg" alt="2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dWjLL3H/3.jpg" alt="3" border="0"></a>
 
 

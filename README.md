@@ -59,6 +59,8 @@
 <a href="https://ibb.co/86X0SzK"><img src="https://i.ibb.co/ChWzTJ1/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
 <a href="https://ibb.co/XFbMc4f"><img src="https://i.ibb.co/9yNSQvm/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
 <a href="https://ibb.co/h2t45WV"><img src="https://i.ibb.co/HGkbvzq/3.png" alt="3" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
+<a href="https://ibb.co/rZjwbWf"><img src="https://i.ibb.co/zSM48kH/q.jpg" alt="q" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
+<a href="https://ibb.co/JtWvpjM"><img src="https://i.ibb.co/kBV4D2W/w.jpg" alt="w" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
 
 
 
